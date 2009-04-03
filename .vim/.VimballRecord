@@ -1,0 +1,2 @@
+snippetsemu.vim: call delete('/home/greg/.vim/plugin/snippetsEmu.vim')|call delete('/home/greg/.vim/doc/snippets_emu.txt')
+snippetsemu.vim: call delete('/home/greg/.vim/plugin/snippetsEmu.vim')|call delete('/home/greg/.vim/doc/snippets_emu.txt')
